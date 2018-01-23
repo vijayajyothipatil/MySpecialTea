@@ -1,1 +1,1 @@
-water cost : $0
+water cost : $10
